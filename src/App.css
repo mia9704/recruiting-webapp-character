@@ -44,3 +44,25 @@
     transform: rotate(360deg);
   }
 }
+
+.CharacterButtons {
+  background-color: hsl(220deg 13% 13%);
+}
+
+.Skill-check {
+  background-color: hsl(220deg 13% 13%);
+  color: white;
+}
+
+.Character {
+  min-height: 100vh;
+  text-align: center;
+  display:flex;
+  flex-direction: row;
+  background-color: hsl(220deg 13% 13%);
+}
+
+.CharacterNum {
+  background-color: hsl(220deg 13% 13%);
+  color: white;
+}
